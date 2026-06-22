@@ -178,5 +178,3 @@ DiseaseScans(id, plant_id, diagnosis, confidence, treatment, scanned_at)
 - Move from SQLite to PostgreSQL/MongoDB Atlas for multi-device sync.
 - Add bcrypt password hashing and JWT-based auth for the FastAPI layer.
 - Deploy the Streamlit app to Streamlit Community Cloud and the FastAPI backend to Render/Railway.
-#   S m a r t - P l a n t - S y s t e m  
- 
